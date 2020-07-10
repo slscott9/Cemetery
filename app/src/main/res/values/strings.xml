@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DatabaseRecent</string>
+    <string name="enter_cemetery_name">Enter cemetery name</string>
+    <string name="enter_cemetery_location">Enter cemetery location</string>
+    <string name="enter_the_number_of_graves">Enter the number of graves</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+</resources>
